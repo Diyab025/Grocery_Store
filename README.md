@@ -58,14 +58,20 @@ Environment Files:
 <br />
 Set up environment files for both the backend and frontend. These files will store environment-specific configurations such as API keys, database connection strings, and other sensitive information.
 <br /><br />
+
 Dummy Data:
+----------
 <br />
 Utilize dummy data from a products.json file for testing purposes. 
+
 Dependency Installation:
+------------------------
 <br />
 Install and add dependencies for both the frontend and backend. Use package managers like npm or yarn to install the required dependencies specified in the package.json files of each component.
 <br />
+
 Running Servers:
+----------------
 <br />
 Start by running both the frontend and backend servers. This ensures that the development environment is properly set up and ready for further implementation. You can use commands like npm start or yarn start to run the servers for each component.
 <br />
